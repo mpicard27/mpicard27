@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mpicard27
-- 👀 I’m interested in ... data science, learning, and trying to do interesting things
-- 🌱 I’m currently learning ... in the data science pathway in codecademy, so python SQL and other things
-- 💞️ I’m looking to collaborate on ... idk, still learning but this is the best way to do so lol
+- 👀 I’m interested in ... data science, learning, and trying to do interesting things!
+- 🌱 I’m currently learning ... in the data science pathway in codecademy, so Python and SQL mainly
+- 💞️ I’m looking to collaborate on ... interesting data science projects!
 - 📫 How to reach me ... mpmichaelpiccolo@gmail.com
 
 <!---
